@@ -14,9 +14,9 @@
 
 **Interactive Features**: Integrates multiple line charts with Gantt-like timelines, allowing interaction between different charts. A filter bar alongside enables users to interactively change query types, thresholds, and the time span of interest.
 
-[image]
+![Screenshot 2024-05-09 at 15 02 22](https://github.com/gongxinya/Reading-Notes/assets/63331601/4ca01e70-9ab7-46f2-96f0-86b0d8e76faf)
+![Screenshot 2024-05-09 at 15 03 25](https://github.com/gongxinya/Reading-Notes/assets/63331601/bea992ae-0965-4c79-811b-f4bd7fa89aea)
 
-[image]
 
 # Visualization Encoding
 
